@@ -1,2 +1,1 @@
-Hello world.trying to understand git commands
-doing more practice
+hello world, i am back
