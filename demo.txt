@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello world, i am back
 hii trying pull and push.
+=======
+hey ankush
+>>>>>>> cae55dc4a882244e62177849e8a52aa81316e5f8
+hiii Karthik thanks for the help
